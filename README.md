@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+A simple Strapi implementation using the Strapi CLI
